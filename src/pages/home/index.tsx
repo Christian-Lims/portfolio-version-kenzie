@@ -57,8 +57,31 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              I graduated in Business Administration where I had experience with
+              research, but eventually switched to the technology field due to
+              demand for professionals and my affinity for it.
+            </Text>
+            <Text type="body1" color="grey2">
+              I enrolled in Kenzie's programming school where I gained
+              experience with various languages and tools. The language I have
+              the most knowledge in is Javascript, where I developed several
+              applications together with HTML and CSS. In these applications, I
+              worked with agile methodologies, good practices, Gitflow, Github,
+              object-oriented programming, functional programming, and
+              consumption of APIs.
+            </Text>
+            <Text type="body1" color="grey2">
+              During this period, I worked on projects with the React framework
+              where I worked with libraries and hooks such as states and
+              context. In these applications, I did a lot of componentization
+              and used libraries such as styled components, chakra ui, and yup
+              for data validation. I also had contact with some tools beyond
+              programming such as Trello, Figma, Jira and the Scrum method.
+            </Text>
+            <Text type="body1" color="grey2">
+              Regarding the backend, I worked on some projects with Node using
+              Express. I also had experience with Python where I used Django. In
+              both cases, I used ORM and the PostgreSQL database.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
